@@ -12,8 +12,8 @@ from pathfinding.finder.a_star import AStarFinder
 
 import matplotlib.pyplot as plt
 from matplotlib import colors
-import numpy as np
-    
+
+
 myMap = [
   [1, 1, 1, 1, 1],
   [1, 1, 2, 1, 1],
